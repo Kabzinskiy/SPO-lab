@@ -1,0 +1,17 @@
+﻿Build started 25.01.2021 23:10:49.
+     1>Project "C:\Users\Санек\Documents\Visual Studio 2013\Projects\Lab_SPO_var_3or15\Lab_SPO_var_3or15\Lab_SPO_var_3or15.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Lab1.cpp
+         Lab1.cpp
+     1>c:\users\санек\documents\visual studio 2013\projects\lab_spo_var_3or15\lab_spo_var_3or15\lab1.cpp(165): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\санек\documents\visual studio 2013\projects\lab_spo_var_3or15\lab_spo_var_3or15\lab1.cpp(220): warning C4715: 'Person::if_left' : not all control paths return a value
+     1>c:\users\санек\documents\visual studio 2013\projects\lab_spo_var_3or15\lab_spo_var_3or15\lab1.cpp(389): warning C4715: 'bin_search' : not all control paths return a value
+     1>c:\users\санек\documents\visual studio 2013\projects\lab_spo_var_3or15\lab_spo_var_3or15\lab1.cpp(83): warning C4715: 'Person::ret_under_index' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Санек\Documents\Visual Studio 2013\Projects\Lab_SPO_var_3or15\Debug\Lab_SPO_var_3or15.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Санек\Documents\Visual Studio 2013\Projects\Lab_SPO_var_3or15\Debug\Lab_SPO_var_3or15.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Санек\Documents\Visual Studio 2013\Projects\Lab_SPO_var_3or15\Debug\Lab_SPO_var_3or15.lib" /MACHINE:X86 Debug\Lab1.obj
+         Lab_SPO_var_3or15.vcxproj -> C:\Users\Санек\Documents\Visual Studio 2013\Projects\Lab_SPO_var_3or15\Debug\Lab_SPO_var_3or15.exe
+     1>Done Building Project "C:\Users\Санек\Documents\Visual Studio 2013\Projects\Lab_SPO_var_3or15\Lab_SPO_var_3or15\Lab_SPO_var_3or15.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.99
